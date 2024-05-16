@@ -80,10 +80,10 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "92Xxxxxxxx"
+       "value": "94762498519"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
+    "description": "KING-MD;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiU0dnMzVBSWROY3B6Q2ZLU2tpdXNFODZsbngyUVVoV2daTHZXeitqeXRFQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiN2RpVTE1SXQ4ckZrc2JLYUdZcThHYmo4eXUxVjZpQlNseEsrNS9sUEJWRT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJzRmRUOHhsbWRJUUxLek1VTE9QTHRkYmlsUElKalFmbmw3Z2VtR2s3cTNnPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIra1IrWTZJdGFKbW1pZzVtMDlxSmRaYnd4UWMzVUhuSVVZQm9oYXlxcUR3PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkFPTnRsWnR5YWI1OC83UmxsRXZTcDJIaUxQVVRxUXJXTFQwUmVZWkxXbjg9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkIyeWtyL3VHeWg5c29ienpJSkhQREtIanR5YjBxL0Z6cHRRMHpibXZIU0U9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ0pLc3JUczdyUEZjbDB0OE83WjVxQXlwNjVhZTN2VXVkNUlKMzE4c3Ztaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidnRUMUMxVzdvdnc5a0xvaDFNaTFJMjN6N3N2T29VdU5TamgvelJKcnJEWT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik1YeFVqTEZNU2NHZ3VlSFpPTXNqUHJmWGhDN1VYZ3NFeWV4Y3ZWcDhpeFpNc1Mxa1B0eU5NMkRhUFNlMkdGM25iM2RFVnBQYnRnSy90TmU5TE5sSkJBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjQzLCJhZHZTZWNyZXRLZXkiOiIyTzBOTVVBOENBajBQdVV0WmJUVzRBVjZQMEt2Q2RoTndQK1BrRWRMYW9vPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJVdEZobXdhU1RmR3dyU1dBb1lTSTdRIiwicGhvbmVJZCI6IjM5YzhhYjI4LTNjZDItNDhhOS1iMjhhLTFlNzE0NDUwNjhjZiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJJUlplckR3RTlvVkJldjI0NGpqcmtOd3pvRUE9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYmptQkczK0pSOG5UQXFRRzBiTTdKUVMxUVpvPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlFXWU5NV01aIiwibWUiOnsiaWQiOiI5NDc2MjQ5ODUxOTo4M0BzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiJydXNoIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNNUGR5cGNGRU92cm1iSUdHQWdnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiIxMVBwRGt2RURQY3ZsNXMrUnpPZ2NUSU1qcmJVRWhjdyt0TXdoT2xpcUcwPSIsImFjY291bnRTaWduYXR1cmUiOiJWeXlJcWlmQ0NkbEtPaWNDeVRlSWFkYjU4YUhjNFp2VGREMXpQZnB5N3prRUxpMGVoRm0rb3lWdk11c2FNL2kxeVZoU0p2M2x4d2lPcHhiNkxYV2NBZz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiemVqYjR4TUhzREFLZjF6UW5OREJ5UzdsMTlEcmlNUW13Y0s5dllRWFhnNjB0RnY4QTVsd0lUSjYzeUFIT3pDMEdmdXp2MjlvR3RKeVcyeVBqOWdNREE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiI5NDc2MjQ5ODUxOTo4M0BzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJkZFQ2UTVMeEF6M0w1ZWJQa2N6b0hFeURJNjIxQklYTVByVE1JVHBZcWh0In19XSwicGxhdGZvcm0iOiJzbWJhIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzE1ODkzNzUyLCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUl1NSJ9"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
@@ -104,15 +104,15 @@
   },
       "AUTO_REACTION": {
     "description": "Reacts emoji to all messages.",
-     "value": "false",
-     "required": false 
+     "value": "true",
+     "required": true 
   },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
     "value": "naveeddogar"
   },
   "PACK_NAME": {
-    "description": "PUT STICKER PACK NAME",
+    "description": "rush",
     "value": "king-mdbot"
   },
   "heroku": {
